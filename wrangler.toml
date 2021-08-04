@@ -1,0 +1,8 @@
+name = "my-static-site"
+type = "webpack"
+route = 'https://maxcwolff.com/*'
+zone_id="9ad889a75e6f7d8cac0748e196c4e656"
+usage_model = ''
+workers_dev = false
+site = {bucket = "./build",entry-point = "workers-site"}
+account_id="046736ce6d96d5f04f8b761d3d97cc71"
